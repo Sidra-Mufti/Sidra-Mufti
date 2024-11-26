@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sidra-Mufti
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming & Software Dev
 - 🌱 I’m currently learning Javascript, React & Nextjs
 - 💞️ I’m looking to collaborate on programming projects
 - 📫 Reach me with github
